@@ -1,1 +1,2 @@
 print("goodbuy")
+print("Goodbuy, my lover! Goodbuy, my friend!")
